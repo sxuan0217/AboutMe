@@ -56,7 +56,7 @@
 
 ## 學習規劃
 
-* ES6 JS 
+* ES6 JS
 * SASS
 * RWD響應式網頁
 * git/github，學習版本控制。
