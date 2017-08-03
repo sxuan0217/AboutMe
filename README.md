@@ -30,7 +30,7 @@
 
 * 使用PHP開發會員管理系統粗淺經驗。
 
-### 開發工具
+### 工具
 
 * visual studio code
 * gulp
