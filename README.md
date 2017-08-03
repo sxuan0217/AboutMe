@@ -17,7 +17,7 @@
 * 能夠使用 CSS 做出網頁排版。
 * 能夠使用photoshop進行切版。
 * BootStrap - 了解基礎使用。
-* SASS - 能夠使用SASS管理版型
+* SASS - 能夠開發
 
 ### Javascript/Framework
 
