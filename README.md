@@ -17,6 +17,7 @@
 * 能夠使用 CSS 做出網頁排版。
 * 能夠使用photoshop進行切版。
 * BootStrap - 了解基礎使用。
+* SASS - 能夠使用SASS管理版型
 
 ### Javascript/Framework
 
@@ -27,8 +28,12 @@
 
 ### PHP/MYSQL
 
-* 使用PHP來開發會員管理系統之粗淺經驗。
+* 使用PHP開發會員管理系統粗淺經驗。
 
+### 開發工具
+
+* visual studio code
+* gulp
 
 <hr>
 
@@ -57,7 +62,6 @@
 ## 學習規劃
 
 * ES6 JS
-* SASS
 * RWD響應式網頁
 * git/github，學習版本控制。
 * React.js
