@@ -23,12 +23,12 @@
 
 * 對 Javascript 觀念有基礎的了解。
 * Jquery - 會使用 Jquery 做動畫效果。
-* 對使用Vue.js的開發有基礎的了解。
-* 對JSON/AJAX 有基礎的了解
+* Vue.js- - 有簡單開發經驗。
+* 對JSON/AJAX 能夠進行api接界。
 
 ### PHP/MYSQL
 
-* 使用PHP開發會員管理系統粗淺經驗。
+* PHP - 開發會員管理系統粗淺經驗。
 
 ## 工具
 
@@ -61,7 +61,7 @@
 
 ## 學習規劃
 
-* ES6 JS
-* RWD響應式網頁
+* RWD - 目前正在學習
 * git/github，學習版本控制。
+* ES6 JS - 
 * React.js
