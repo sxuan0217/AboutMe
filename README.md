@@ -61,7 +61,7 @@
 
 ## 學習規劃
 
-* RWD - 目前正在學習
-* git/github，學習版本控制。
+* RWD
+* git/github
 * ES6 JS - 
 * React.js
