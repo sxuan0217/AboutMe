@@ -49,7 +49,10 @@
 * <a href="https://sxuan0217.github.io/KaohsiungTravel0710/" target="_blank">高雄旅遊資訊</a> 		   
    * 串接高雄市政府開放資料
    * 使用原生JS開發
- 	   
+   
+* <a href="https://sxuan0217.github.io/rwdlayout/public/login.html" target="_blank">RWDLayout</a> 		   
+   * 不依賴套件下，客製響應式網頁
+
 <hr>
  
 ## 自介與自我期許
@@ -59,9 +62,3 @@
 
 <hr>
 
-## 學習規劃
-
-* RWD
-* git/github
-* ES6 JS - 
-* React.js
