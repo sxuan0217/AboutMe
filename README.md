@@ -51,7 +51,7 @@
    * 使用原生JS開發
    
 * <a href="https://sxuan0217.github.io/rwdlayout/public/login.html" target="_blank">RWDLayout</a> 		   
-   * 不依賴套件下，客製響應式網頁
+   * 不依賴套件，客製化響應式網頁
 
 <hr>
  
