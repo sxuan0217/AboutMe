@@ -50,8 +50,8 @@
    * 串接高雄市政府開放資料
    * 使用原生JS開發
    
-* <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank">RWDLayout</a>	   
-   * 使用flexbox進行客製化RWD響應式網頁
+* <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank"> RWDLayout </a> 
+  * 使用flexbox進行客製化RWD響應式網頁
 
 <hr>
 
