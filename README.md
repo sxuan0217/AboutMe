@@ -11,24 +11,24 @@
 
 ## 技能
 
-### HTML/CSS
+### RWD web Layout
 
 * 瞭解 HTML 語意並開發符合語意之網頁。
 * 能夠使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
-* 能夠使用photoshop進行切版。
+* 能夠使用 photoshop 進行切版。
 * BootStrap - 了解基礎使用
-* 使用SASS進行Web Layout的管理
+* 使用 Sass 進行 Web Layout 的管理
 
-### Javascript/Framework
+### JavaScript/Framework
 
-* 對 Javascript 觀念有基礎的了解，正在研讀ES6。
+* 對 JavaScript 觀念有基礎的了解，正在研讀ES6。
 * Jquery - 使用 Jquery 做動畫效果。
 * Vue.js - 具有串接政府開放資料之API開發經驗，對其生命週期有基礎的了解。
-* JSON/AJAX - 能夠撈取遠端JSON資料並顯示。
+* JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
 ### PHP/MYSQL
 
-* PHP - 開發會員系統的粗淺經驗。
+* PHP - 開發會員系統之經驗。
 
 <hr>
 
@@ -42,18 +42,18 @@
 ## 作品
 
 * <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		   
-   * 使用Vue.js開發。
-   * 串接台北市政府開放資料api。
-   * 使用animated.css製作動畫效果。
-   * 運用bootstrap進行排版。
-   * 運用jquery製作動畫效果。
+   * 使用 Vue.js 開發。
+   * 串接台北市政府開放資料 api。
+   * 使用 animated.css 製作動畫效果。
+   * 運用 bootstrap 進行排版。
+   * 運用 jquery 製作動畫效果。
  
 * <a href="https://sxuan0217.github.io/KaohsiungTravel0710/" target="_blank">高雄旅遊資訊</a> 		   
    * 串接高雄市政府開放資料
-   * 使用原生JS開發
+   * 使用原生 JS 開發
    
 * <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank"> RWDLayout </a> 
-  * 使用flexbox進行客製化RWD響應式網頁
+  * 使用 flexbox 進行客製化 RWD 響應式網頁
 
 <hr>
 
