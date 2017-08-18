@@ -16,14 +16,14 @@
 * 瞭解 HTML 語意並開發符合語意之網頁。
 * 能夠使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
 * 能夠使用 photoshop 進行切版。
-* BootStrap - 了解基礎使用
+* 能夠 BootStrap 進行排版
 * 使用 Sass 進行 Web Layout 的管理
 
 ### JavaScript/Framework
 
-* 對 JavaScript 觀念有基礎的了解，正在研讀ES6。
+* 對 JavaScript 觀念有了解，正在研讀ES6。
 * Jquery - 使用 Jquery 做動畫效果。
-* Vue.js - 具有串接政府開放資料 API 開發經驗，對其生命週期有基礎的了解。
+* Vue.js - 具有串接政府開放資料 API 開發經驗，了解其生命週期。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
 ### PHP/MYSQL
