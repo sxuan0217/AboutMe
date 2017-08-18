@@ -53,7 +53,7 @@
    * 使用原生 JS 開發
    
 * <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank"> RWDLayout </a> 
-  * 使用 flexbox 進行客製化 RWD 響應式網頁
+   * 使用 flexbox 進行客製化 RWD 響應式網頁
 
 <hr>
 
