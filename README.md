@@ -23,7 +23,7 @@
 
 * 對 JavaScript 觀念有基礎的了解，正在研讀ES6。
 * Jquery - 使用 Jquery 做動畫效果。
-* Vue.js - 具有串接政府開放資料之API開發經驗，對其生命週期有基礎的了解。
+* Vue.js - 具有串接政府開放資料 API 開發經驗，對其生命週期有基礎的了解。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
 ### PHP/MYSQL
