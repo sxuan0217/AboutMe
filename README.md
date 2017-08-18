@@ -22,7 +22,7 @@
 ### JavaScript/Framework
 
 * 對 JavaScript 觀念有了解，正在研讀ES6。
-* JQuery - 使用 Jquery 做動畫效果。
+* JQuery - 使用 JQuery 做動畫效果。
 * Vue.js - 具有串接政府開放資料 API 開發經驗，了解其生命週期。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
