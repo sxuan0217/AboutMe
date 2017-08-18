@@ -14,10 +14,10 @@
 ### RWD web Layout
 
 * 瞭解 HTML 語意並開發符合語意之網頁。
-* 能夠使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
-* 能夠使用 photoshop 進行切版。
-* 能夠 BootStrap 進行排版
-* 使用 Sass 進行 Web Layout 的管理
+* 使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
+* 使用 photoshop 進行切版。
+* 使用 BootStrap 進行排版。
+* 使用 Sass 進行 Web Layout 的管理。
 
 ### JavaScript/Framework
 
@@ -49,11 +49,11 @@
    * 運用 jquery 製作動畫效果。
  
 * <a href="https://sxuan0217.github.io/KaohsiungTravel0710/" target="_blank">高雄旅遊資訊</a> 		   
-   * 串接高雄市政府開放資料
-   * 使用原生 JS 開發
-   
+   * 串接高雄市政府開放資料。
+   * 使用原生 JS 開發。
+   
 * <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank"> RWD Layout </a> 
-   * 使用 flexbox 進行客製化 RWD 響應式網頁
+   * 使用 flexbox 進行客製化 RWD 響應式網頁。
 
 <hr>
 
