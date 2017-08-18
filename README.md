@@ -15,14 +15,14 @@
 
 * 瞭解 HTML 語意並開發符合語意之網頁。
 * 使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
-* 使用 photoshop 進行切版。
+* 使用 Photoshop 進行切版。
 * 使用 BootStrap 進行排版。
 * 使用 Sass 進行 Web Layout 的管理。
 
 ### JavaScript/Framework
 
 * 對 JavaScript 觀念有了解，正在研讀ES6。
-* Jquery - 使用 Jquery 做動畫效果。
+* JQuery - 使用 Jquery 做動畫效果。
 * Vue.js - 具有串接政府開放資料 API 開發經驗，了解其生命週期。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
@@ -46,7 +46,7 @@
     * 串接台北市政府開放資料 api。
     * 使用 animated.css 製作動畫效果。
     * 運用 bootstrap 進行排版。
-    * 運用 jquery 製作動畫效果。
+    * 運用 JQuery 製作動畫效果。
  
 * <a href="https://sxuan0217.github.io/KaohsiungTravel0710/" target="_blank">高雄旅遊資訊</a> 		   
     * 串接高雄市政府開放資料。
