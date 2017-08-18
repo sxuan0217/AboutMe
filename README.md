@@ -42,15 +42,15 @@
 ## 作品
 
 * <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		   
-   * 使用 Vue.js 開發。
-   * 串接台北市政府開放資料 api。
-   * 使用 animated.css 製作動畫效果。
-   * 運用 bootstrap 進行排版。
-   * 運用 jquery 製作動畫效果。
+   * 使用 Vue.js 開發。
+   * 串接台北市政府開放資料 api。
+   * 使用 animated.css 製作動畫效果。
+   * 運用 bootstrap 進行排版。
+   * 運用 jquery 製作動畫效果。
  
 * <a href="https://sxuan0217.github.io/KaohsiungTravel0710/" target="_blank">高雄旅遊資訊</a> 		   
    * 串接高雄市政府開放資料
-   * 使用原生 JS 開發
+   * 使用原生 JS 開發
    
 * <a href="https://sxuan0217.github.io/rwdlayout/public/index.html" target="_blank"> RWDLayout </a> 
    * 使用 flexbox 進行客製化 RWD 響應式網頁
