@@ -45,6 +45,13 @@
 
 ## 作品
 
+* <a href='https://sxuan0217.github.io/vuex1999/#/' target='_blank'>高雄1999</a>
+
+    * 使用 Vue 開發。
+    * 串接高雄1999開放資料。
+    * 使用 Vuex 管理資料。
+    * 使用 css-loader 製作載入動畫。
+    
 * <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		   
     * 使用 Vue.js 開發。
     * 串接台北市政府開放資料 api。
