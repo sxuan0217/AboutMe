@@ -49,7 +49,7 @@
 
     * 使用 Vue 開發。
     * 串接 Open1999派工受理 開放資料。
-    * 使用 Vuex 管理資料狀態。
+    * 使用 Vuex 管理資料狀態。
     * 使用 css-loader 製作載入動畫。
     
 * <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		   
