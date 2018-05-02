@@ -4,7 +4,6 @@
 * Education: 亞洲大學 資訊傳播學系
 * Location: New Taipei City
 * E-mail: sxuan0217@gmail.com
-* BLOG: <a href="https://sxuan0217.github.io/aPersonalBlog/" target="_blank">Xuan's note</a>
 * Github: <a href="https://github.com/sxuan0217" target="_blank">Xuan0217</a>
 
 <hr>
@@ -23,7 +22,7 @@
 
 * 對 JavaScript 觀念有了解，正在研讀ES6。
 * JQuery - 使用 JQuery 做動畫效果。
-* Vue.js - 具有串接政府開放資料 API 開發經驗，了解其生命週期。
+* Vue.js - 具使用SPA開發後台之經驗。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
 
 ### PHP/MYSQL
