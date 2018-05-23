@@ -8,22 +8,26 @@
 
 <hr>
 
+## 經歷
+
+* 亞思通股份有限公司: 負責開發後台管理系統介面
+
+<hr>
+
 ## 技能
 
-### RWD web Layout
 
-* 瞭解 HTML 語意並開發符合語意之網頁。
-* 使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
-* 使用 Photoshop 進行切版。
-* 使用 BootStrap 進行排版。
-* 使用 Sass 進行 Web Layout 的管理。
+### JavaScript
 
-### JavaScript/Framework
-
-* 對 JavaScript 觀念有了解，正在研讀ES6。
+* 了解 JavaScript 觀念和ES6語法。
 * JQuery - 使用 JQuery 做動畫效果。
-* Vue.js - 具使用SPA開發後台之經驗。
 * JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
+
+### Vue.js
+
+* Vuex
+* Vue-router
+* Element
 
 ### PHP/MYSQL
 
@@ -32,6 +36,14 @@
 ### Git/Github
 
 * 了解Git版控指令
+
+### RWD web Layout
+
+* 瞭解 HTML 語意並開發符合語意之網頁。
+* 使用 CSS 做出網頁排版，並不依賴套件手刻RWD網站。
+* 使用 Photoshop 進行切版。
+* 使用 BootStrap 進行排版。
+* 使用 Sass 進行 Web Layout 的管理。
 
 <hr>
 
@@ -70,7 +82,7 @@
 ## 自介與自我期許
 
 * 對新技術和新知識有極大的興趣，能夠提升自己的技術跟上時代。
-* 無時無刻都在學習讓自己能夠更加進步，改進自己的 coding style 和 髒髒的 code。
+* 無時無刻都在學習讓自己能夠更加進步
 * 對於工程師coding的身影感到憧憬，期許自己有著一日也能達到同樣的程度。
 
 
