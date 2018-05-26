@@ -12,7 +12,7 @@
 
 * 亞思通股份有限公司: 負責開發後台管理系統介面
   + 使用 Vue-router 建構 SPA 和 觀察 store 做導航守衛
-  + 使用 Vuex 管理使用者登入狀態並分發至Component
+  + 使用 Vuex 管理使用者登入狀態並分發至 Component
   + 藉由 Element UI 來加速開發
 
 <hr>
@@ -22,7 +22,7 @@
 
 ### JavaScript
 
-* 了解 JavaScript 觀念和ES6語法。
+* 了解 JavaScript 觀念和 ES6 語法。
 * JQuery - 使用 JQuery 做出動畫效果。
 * JSON/AJAX - 撈取遠端 JSON 資料並顯示。
 
@@ -39,7 +39,7 @@
 
 ### Git/Github
 
-* 了解Git版控指令。
+* 了解 Git 版控指令。
 * 藉由 Github Page 搭設靜態網頁。
 
 ### RWD web Layout
