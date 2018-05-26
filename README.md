@@ -11,6 +11,9 @@
 ## 經歷
 
 * 亞思通股份有限公司: 負責開發後台管理系統介面
+  + 使用 Vue-router 建構 SPA 和 觀察 store 做導航守衛
+  + 使用 Vuex 管理使用者登入狀態並分發至Component
+  + 藉由 Element UI 來加速開發
 
 <hr>
 
@@ -20,14 +23,15 @@
 ### JavaScript
 
 * 了解 JavaScript 觀念和ES6語法。
-* JQuery - 使用 JQuery 做動畫效果。
-* JSON/AJAX - 能夠撈取遠端 JSON 資料並顯示。
+* JQuery - 使用 JQuery 做出動畫效果。
+* JSON/AJAX - 撈取遠端 JSON 資料並顯示。
 
 ### Vue.js
 
-* Vuex
-* Vue-router
-* Element
+* 了解其生命週期、實例方法、Component、單文件組件。
+* Vuex: 了解如何使用其來統一管理狀態並分發至 Component。
+* Vue-router: 了解如何傳遞參數、導航守衛和巢狀路由。
+* Element: 了解如何使用第三方插件來加速開發。
 
 ### PHP/MYSQL
 
@@ -35,7 +39,8 @@
 
 ### Git/Github
 
-* 了解Git版控指令
+* 了解Git版控指令。
+* 藉由 Github Page 搭設靜態網頁。
 
 ### RWD web Layout
 
@@ -60,10 +65,11 @@
 
     * 使用 Vue 開發。
     * 串接 Open1999派工受理 開放資料。
-    * 使用 Vuex 管理資料狀態。
+    * 使用 Vuex 管理api發送前的動畫開關。
     * 使用 css-loader 製作載入動畫。
     
-* <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		   
+* <a href="https://sxuan0217.github.io/TaipeiDisasterData/" target="_blank">台北最新災害資訊</a> 		
+
     * 使用 Vue.js 開發。
     * 串接台北市政府開放資料 api。
     * 使用 animated.css 製作動畫效果。
@@ -79,12 +85,11 @@
 
 <hr>
 
-## 自介與自我期許
+## 個人特質
 
-* 對新技術和新知識有極大的興趣，能夠提升自己的技術跟上時代。
-* 無時無刻都在學習讓自己能夠更加進步
-* 對於工程師coding的身影感到憧憬，期許自己有著一日也能達到同樣的程度。
-
+* 喜愛鑽研新技術。
+* 待人隨和、好相處且善於傾聽。
+* 重視承諾，應承的事項都能如期完成。
+* 喜愛解決問題更享受其帶來的成就感。
 
 <hr>
-
