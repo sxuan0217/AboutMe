@@ -12,13 +12,12 @@
 
 - 亞思通股份有限公司
 
-  - 開發後台介面。
-  - 使用 Vue-router 建構 SPA 和 觀察 store 做導航守衛。
+  - 開發客戶產品管理後台之介面
   - 使用 Vuex 管理使用者登入狀態並分發至 Component。
   - 藉由 Element UI 來加速開發。
 
 - 就肆電競股份有限公司
-
+  - 與前端夥伴 Pair Programming
   - 開發和維護官方網站。
   - 開發 WirForce 2019 網站和報名系統。
   - 維護各項產品。
@@ -66,14 +65,15 @@
 - <a href='https://www.4gamers.com.tw/' target='_blank'>4Gamers</a>
 
   - Vue 開發。
+  - Typescript 開發。
   - Vue Router 達成 SPA。
   - Vuex 管理會員登錄狀態。
+  - Vuei18n多國語系。
   - BootstrapVue 架構網站 UI。
   - XState 整合會員登入和註冊流程。
   - 解析文章內容將 Component 呈現。
   - 客製化各種元件以符合設計風格。
   - RWD。
-  - vuei18n 開發多國語系。
 
 - <a href="https://www.wirforce.com.tw/#/" target="_blank">WirForce</a>
 
@@ -85,8 +85,4 @@
 * <a href="https://www.metalhogs.com.tw/#/" target="_blank">MetalHogs</a>
 
   - Vue 開發。
-
-* <a href="https://adbig.net/?fbclid=IwAR2wLn5KrztF6t-as8rt4R9YrR845aosvjzkB_ouU_K0wr15yvdAg0zgPmc#/" target="_blank">ADBIG</a>
-
-  - 使用 Vue 開發 youtuber 首頁。
-
+  - Typescript 開發。
